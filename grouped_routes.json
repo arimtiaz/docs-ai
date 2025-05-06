@@ -1,0 +1,63 @@
+{
+  "youtube": {
+    "chai-aur-c": [
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/control-flow/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/data-types/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/functions/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/hello-world/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/introduction/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/loops/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/operators/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/variables-and-constants/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-c/welcome/"
+    ],
+    "chai-aur-devops": [
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/nginx-rate-limiting/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/nginx-ssl-setup/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-logger/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/node-nginx-vps/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-docker/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/postgresql-vps/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-nginx/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/setup-vpc/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-devops/welcome/"
+    ],
+    "chai-aur-django": [
+      "https://chaidocs.vercel.app/youtube/chai-aur-django/getting-started/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-django/jinja-templates/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-django/models/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-django/relationships-and-forms/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-django/tailwind/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-django/welcome/"
+    ],
+    "chai-aur-git": [
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/behind-the-scenes/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/branches/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/diff-stash-tags/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/github/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/introduction/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/managing-history/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/terminology/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-git/welcome/"
+    ],
+    "chai-aur-html": [
+      "https://chaidocs.vercel.app/youtube/chai-aur-html/emmit-crash-course/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-html/html-tags/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-html/introduction/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-html/welcome/"
+    ],
+    "chai-aur-sql": [
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/database-design-exercise/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/introduction/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/joins-and-keys/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/joins-exercise/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/normalization/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/postgres/",
+      "https://chaidocs.vercel.app/youtube/chai-aur-sql/welcome/"
+    ],
+    "getting-started": [
+      "https://chaidocs.vercel.app/youtube/getting-started",
+      "https://chaidocs.vercel.app/youtube/getting-started/"
+    ]
+  }
+}
